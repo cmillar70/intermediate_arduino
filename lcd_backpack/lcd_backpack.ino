@@ -1,3 +1,20 @@
+/*
+
+
+THIS CODE HAS BEEN DEPRICIATED AND WILL NO LONGER WORK WITH THE 
+NEW ARDUINO IDE
+
+
+IF YOU NEED TO USE AN LCD BACKPACK LOOK AT SOMEONE'S STUFF ON GITHUB
+
+
+
+
+
+
+*/
+
+
 #include <Wire.h>
 #include <LCD.h>
 #include <LiquidCrystal_I2C.h>
